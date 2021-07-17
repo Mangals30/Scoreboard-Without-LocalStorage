@@ -10,5 +10,5 @@ Validations checked for duplicate players and input fields.
 Media queries implemented for responsive pages.
 The project is deployed in the below site
 
-[Player Scoreboard](https://mkris-chatapp.herokuapp.com/)
+[Player Scoreboard](https://serene-brattain-04511f.netlify.app/)
 
